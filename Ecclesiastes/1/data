@@ -1,7 +1,8 @@
 \c 1
-\s1 Judul perikop di sini
 \p
 \v 1 teks ayat 1
+\s1 Judul perikop
+\p
 \v 2 Teks ayat 2 Kata untuk meneliti: vanity/
 \p
 \v 3 Teks ayat 3. Metafora/gambaran untuk meneliti: under the sun
@@ -17,16 +18,23 @@
 \q1
 \v 7 Baris 1 tentang sungai dan laut
 \q2 baris2: Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
+\p
 \v 8 Meneliti gaya bahasa: a man cannot utter it
 \v 9 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
 \v 10 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
 \v 11 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
-\s1 Judul 
+\s1 Judul seperti GNT/NLT/dll
 \p
 \v 12 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
 \v 13 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
 \v 14 Ada metafora dalam ayat ini.
-\v 15 Ada dua metafora dalam ayat ini.
+\q1
+\v 15 Puisi dua baris saja.
+\q2 Perhatikan: Ada dua metafora dalam ayat ini.
+\b
+\p
 \v 16 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
 \v 17 Metafora: striving after wind
-\v 18 Doa adalah fondasi dari segala sesuatu yang kita kerjakan.
+\q1
+\v 18 Doa adalah fondasi
+\q2 dari segala sesuatu yang kita kerjakan.
