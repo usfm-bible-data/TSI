@@ -1,9 +1,7 @@
 \c 1
+\s Daftar keturunan Adam
 \p
-\v 1
-\v 2
-\v 3
-\v 4
+\v 1-4 Daftar keturunan\f + \fr 1:1 \fk Daftar keturunan \ft Daftar ini diberikan tanpa pengulangan setiap nama. Jika diurutkan dari atas, maka nama berikutnya adalah nama anaknya.\f*Adam sampai Nuh secara berurutan adalah: Adam, Set, Enos, Kenan, Mahalalel, Yared, Henokh, Metusalah, Lamaekh dan Nuh. Nuh memiliki tiga anak laki-laki, Sem Ham, Yafet.
 \v 5
 \v 6
 \v 7
