@@ -1,8 +1,15 @@
 \c 3
-\p
-\v 1
-\v 2
+\s1 judul
+\q1
+\v 1 baris 1
+\q2 baris 2
+\q1
+\v 2 baris 1
+\q2 baris 2
+\q1
 \v 3
+\q2
+\q1
 \v 4
 \v 5
 \v 6
