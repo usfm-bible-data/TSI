@@ -1,7 +1,8 @@
 \c 3
 \s1 judul
 \q1
-\v 1 Aku adalah orang yang sudah melihat penderitaan
+\v 1
+\q1 Aku adalah orang yang sudah melihat penderitaan
 \q2 yang disebabkan oleh hukuman kemarahan-Nya.
 \q1
 \v 2 Dia membawa aku ke tempat yang paling gelap.
@@ -121,7 +122,7 @@
 \q2 Celakalah dan hancurlah hidup kami.
 \q1
 \v 48 Air mataku mengalir seperti sungai.
-\q2 Aku menangis karena bangsaku sudah hancur. df999999999999999999999999999999999999999999999999
+\q2 Aku menangis karena bangsaku sudah hancur.
 \q1
 \v 49-50 Air mataku akan terus bercucuran tiada henti,
 \q2 sampai Engkau melayangkan pandangan-Mu
@@ -130,7 +131,7 @@
 \v 51 Hatiku pilu, melihat penderitaan perempuan Yerusalem
 \q2 atas perbuatan tentara Babel.
 \q1
-\v 52 Seperti burung, kami diburu musuh tanpa alasan.
+\v 52 Seperti burung, kami\f + \fr 3:52 \fk kami \ft Secara harfiah, “aku diburu …” TSI menerjemahkan sesuai tafsiran bahwa Yeremia berbicara seperti mewakili kota Yerusalem dan seluruh penduduknya.\f* diburu musuh tanpa alasan.
 \q1
 \v 53 Kami dipaksa diam dan dicampakkan
 \q2 ke lubang yang dalam.
